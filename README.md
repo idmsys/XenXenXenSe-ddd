@@ -6,7 +6,7 @@
    Developed with &lt;3 by Stella IT OpenSource Project Team<br>
    <a href="https://opensource.stella-it.com/discord/">Join our Community</a>
 </p> 
-<hr />
+<hr/>
 
 ## Build Status
 | Name                      | Status                                                                                                         |
